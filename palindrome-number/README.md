@@ -2,6 +2,7 @@
 
 <p>An integer is a <strong>palindrome</strong> when it reads the same backward as forward. For example, <code>121</code> is palindrome while <code>123</code> is not.</p>
 
+	
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
